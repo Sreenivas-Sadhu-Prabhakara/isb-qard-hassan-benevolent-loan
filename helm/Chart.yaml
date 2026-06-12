@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-qard-hassan-benevolent-loan
+description: "BIAN Service Domain: Qard Hassan Benevolent Loan (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Qard Hassan Facility"
+  isb/control-record: "Qard Hassan Facility Fulfillment Arrangement"
